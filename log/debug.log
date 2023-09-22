@@ -1,0 +1,210 @@
+INFO 2023-09-21 21:55:26,800 autoreload 9084 4544 Watching for file changes with StatReloader
+INFO 2023-09-21 21:55:30,152 views 9084 2588 connection complieted ��������� �����
+INFO 2023-09-21 21:55:30,152 basehttp 9084 2588 "GET /digest/ HTTP/1.1" 200 3
+INFO 2023-09-21 21:55:31,189 views 9084 2588 connection complieted ��������� �����
+INFO 2023-09-21 21:55:31,190 basehttp 9084 2588 "GET /digest/ HTTP/1.1" 200 2
+INFO 2023-09-21 21:55:32,141 views 9084 2588 connection complieted ��������� �����
+INFO 2023-09-21 21:55:32,141 basehttp 9084 2588 "GET /digest/ HTTP/1.1" 200 2
+INFO 2023-09-21 21:55:46,571 views 9084 2588 connection complieted
+INFO 2023-09-21 21:55:46,572 basehttp 9084 2588 "GET /cube/ HTTP/1.1" 200 34
+INFO 2023-09-21 21:55:49,820 views 9084 2588 connection complieted
+INFO 2023-09-21 21:55:49,821 basehttp 9084 2588 "GET /cube/ HTTP/1.1" 200 34
+INFO 2023-09-21 21:55:50,670 views 9084 2588 connection complieted
+INFO 2023-09-21 21:55:50,670 basehttp 9084 2588 "GET /cube/ HTTP/1.1" 200 34
+INFO 2023-09-21 21:55:51,469 views 9084 2588 connection complieted
+INFO 2023-09-21 21:55:51,470 basehttp 9084 2588 "GET /cube/ HTTP/1.1" 200 34
+INFO 2023-09-21 21:56:05,012 views 9084 2588 connection complieted
+INFO 2023-09-21 21:56:05,013 basehttp 9084 2588 "GET /two/ HTTP/1.1" 200 10
+INFO 2023-09-21 21:56:06,773 views 9084 2588 connection complieted
+INFO 2023-09-21 21:56:06,773 basehttp 9084 2588 "GET /two/ HTTP/1.1" 200 10
+INFO 2023-09-21 21:56:07,853 views 9084 2588 connection complieted
+INFO 2023-09-21 21:56:07,853 basehttp 9084 2588 "GET /two/ HTTP/1.1" 200 10
+INFO 2023-09-21 21:56:08,796 views 9084 2588 connection complieted
+INFO 2023-09-21 21:56:08,797 basehttp 9084 2588 "GET /two/ HTTP/1.1" 200 8
+INFO 2023-09-21 21:56:09,749 views 9084 2588 connection complieted
+INFO 2023-09-21 21:56:09,749 basehttp 9084 2588 "GET /two/ HTTP/1.1" 200 10
+INFO 2023-09-21 21:57:24,959 autoreload 4040 4316 Watching for file changes with StatReloader
+INFO 2023-09-21 21:57:26,618 views 4040 12492 connection complieted
+INFO 2023-09-21 21:57:26,620 basehttp 4040 12492 "GET / HTTP/1.1" 200 12
+INFO 2023-09-21 21:57:28,428 views 4040 12492 connection complieted
+INFO 2023-09-21 21:57:28,429 basehttp 4040 12492 "GET / HTTP/1.1" 200 12
+INFO 2023-09-21 21:57:29,741 views 4040 12492 connection complieted
+INFO 2023-09-21 21:57:29,741 basehttp 4040 12492 "GET / HTTP/1.1" 200 12
+INFO 2023-09-21 21:58:16,792 autoreload 6444 9904 Watching for file changes with StatReloader
+INFO 2023-09-21 21:59:16,769 autoreload 9060 7908 Watching for file changes with StatReloader
+INFO 2023-09-21 21:59:18,404 views 9060 1732 connection complieted
+INFO 2023-09-21 21:59:18,405 basehttp 9060 1732 "GET / HTTP/1.1" 200 12
+INFO 2023-09-21 21:59:19,842 views 9060 1732 connection complieted
+INFO 2023-09-21 21:59:19,844 basehttp 9060 1732 "GET / HTTP/1.1" 200 12
+INFO 2023-09-21 21:59:26,659 views 9060 1732 connection complieted
+INFO 2023-09-21 21:59:26,660 basehttp 9060 1732 "GET /cube/ HTTP/1.1" 200 34
+INFO 2023-09-21 21:59:28,475 views 9060 1732 connection complieted
+INFO 2023-09-21 21:59:28,476 basehttp 9060 1732 "GET /cube/ HTTP/1.1" 200 34
+INFO 2023-09-21 21:59:29,524 views 9060 1732 connection complieted
+INFO 2023-09-21 21:59:29,525 basehttp 9060 1732 "GET /cube/ HTTP/1.1" 200 34
+INFO 2023-09-21 22:17:45,764 autoreload 5108 13704 Watching for file changes with StatReloader
+INFO 2023-09-21 22:17:49,971 views 5108 3464 �������� 6
+INFO 2023-09-21 22:17:49,971 basehttp 5108 3464 "GET /cube/ HTTP/1.1" 200 34
+INFO 2023-09-21 22:19:13,104 autoreload 3888 6164 Watching for file changes with StatReloader
+INFO 2023-09-21 22:19:26,874 views 3888 9596 Значение стороны: Орёл
+INFO 2023-09-21 22:19:26,875 basehttp 3888 9596 "GET /two/ HTTP/1.1" 200 8
+INFO 2023-09-21 22:19:27,997 views 3888 9596 Значение стороны: Орёл
+INFO 2023-09-21 22:19:27,998 basehttp 3888 9596 "GET /two/ HTTP/1.1" 200 8
+INFO 2023-09-21 22:19:28,854 views 3888 9596 Значение стороны: Орёл
+INFO 2023-09-21 22:19:28,855 basehttp 3888 9596 "GET /two/ HTTP/1.1" 200 8
+INFO 2023-09-21 22:19:29,925 views 3888 9596 Значение стороны: Орёл
+INFO 2023-09-21 22:19:29,926 basehttp 3888 9596 "GET /two/ HTTP/1.1" 200 8
+INFO 2023-09-21 22:19:31,262 views 3888 9596 Значение стороны: Решка
+INFO 2023-09-21 22:19:31,263 basehttp 3888 9596 "GET /two/ HTTP/1.1" 200 10
+INFO 2023-09-21 22:50:33,519 views 3888 6668 Значение стороны: Решка
+INFO 2023-09-21 22:50:33,520 basehttp 3888 6668 "GET /two/ HTTP/1.1" 200 10
+INFO 2023-09-21 22:50:34,454 views 3888 6668 Значение стороны: Орёл
+INFO 2023-09-21 22:50:34,455 basehttp 3888 6668 "GET /two/ HTTP/1.1" 200 8
+INFO 2023-09-21 22:50:35,582 views 3888 6668 Значение стороны: Решка
+INFO 2023-09-21 22:50:35,582 basehttp 3888 6668 "GET /two/ HTTP/1.1" 200 10
+INFO 2023-09-21 22:50:36,628 views 3888 6668 Значение стороны: Орёл
+INFO 2023-09-21 22:50:36,628 basehttp 3888 6668 "GET /two/ HTTP/1.1" 200 8
+INFO 2023-09-22 16:25:50,327 autoreload 2368 13364 Watching for file changes with StatReloader
+INFO 2023-09-22 16:25:54,282 basehttp 2368 9380 "GET / HTTP/1.1" 200 15
+WARNING 2023-09-22 16:25:54,479 log 2368 9380 Not Found: /favicon.ico
+WARNING 2023-09-22 16:25:54,479 basehttp 2368 9380 "GET /favicon.ico HTTP/1.1" 404 2365
+INFO 2023-09-22 16:33:44,373 autoreload 2368 13364 F:\projects_1\seminar_1\my_blogapp\views.py changed, reloading.
+INFO 2023-09-22 16:33:44,804 autoreload 7772 3876 Watching for file changes with StatReloader
+INFO 2023-09-22 16:42:26,923 autoreload 7772 3876 F:\projects_1\seminar_1\seminar_1\settings.py changed, reloading.
+INFO 2023-09-22 16:42:27,376 autoreload 2936 5988 Watching for file changes with StatReloader
+INFO 2023-09-22 16:44:26,236 autoreload 2936 5988 F:\projects_1\seminar_1\my_blogapp\views.py changed, reloading.
+INFO 2023-09-22 16:44:26,629 autoreload 14408 13572 Watching for file changes with StatReloader
+INFO 2023-09-22 16:46:42,642 autoreload 1648 2508 Watching for file changes with StatReloader
+INFO 2023-09-22 16:48:31,222 autoreload 9960 14592 Watching for file changes with StatReloader
+INFO 2023-09-22 16:48:33,036 basehttp 9960 14196 "GET / HTTP/1.1" 200 20913
+WARNING 2023-09-22 16:48:33,076 log 9960 15148 Not Found: /assets/css/styles.min.css
+WARNING 2023-09-22 16:48:33,077 log 9960 14196 Not Found: /assets/bootstrap/css/bootstrap.min.css
+WARNING 2023-09-22 16:48:33,078 basehttp 9960 15148 "GET /assets/css/styles.min.css?h=536e62e6d7a1a104c741b5e807552c44 HTTP/1.1" 404 2442
+WARNING 2023-09-22 16:48:33,079 basehttp 9960 14196 "GET /assets/bootstrap/css/bootstrap.min.css?h=cb8828c28cbb36ccaba2a87636c9f589 HTTP/1.1" 404 2481
+WARNING 2023-09-22 16:48:33,134 log 9960 7892 Not Found: /assets/js/script.min.js
+WARNING 2023-09-22 16:48:33,135 log 9960 11652 Not Found: /assets/img/profile.png
+WARNING 2023-09-22 16:48:33,137 log 9960 1448 Not Found: /assets/img/portfolio/cabin.png
+WARNING 2023-09-22 16:48:33,137 basehttp 9960 7892 "GET /assets/js/script.min.js?h=33588ed143bc098cbcf279ea5d7aa7b8 HTTP/1.1" 404 2436
+WARNING 2023-09-22 16:48:33,138 log 9960 14196 Not Found: /assets/img/portfolio/circus.png
+WARNING 2023-09-22 16:48:33,138 log 9960 15148 Not Found: /assets/img/portfolio/game.png
+WARNING 2023-09-22 16:48:33,138 basehttp 9960 11652 "GET /assets/img/profile.png?h=ca1ddcee1cb057489d44a94e63b7fbc4 HTTP/1.1" 404 2433
+WARNING 2023-09-22 16:48:33,141 basehttp 9960 1448 "GET /assets/img/portfolio/cabin.png?h=5bde47039f23de84a7748bee08793ac3 HTTP/1.1" 404 2457
+WARNING 2023-09-22 16:48:33,142 log 9960 14892 Not Found: /assets/img/portfolio/cake.png
+WARNING 2023-09-22 16:48:33,144 basehttp 9960 14196 "GET /assets/img/portfolio/circus.png?h=984b4ff719255fcbf2e01164905ebb90 HTTP/1.1" 404 2460
+WARNING 2023-09-22 16:48:33,144 basehttp 9960 15148 "GET /assets/img/portfolio/game.png?h=b5df08ec517f8b9872be52e015333d8a HTTP/1.1" 404 2454
+WARNING 2023-09-22 16:48:33,146 basehttp 9960 14892 "GET /assets/img/portfolio/cake.png?h=4b5723e2b00006ef3a25df097c7187dd HTTP/1.1" 404 2454
+WARNING 2023-09-22 16:48:33,150 log 9960 7892 Not Found: /assets/img/portfolio/safe.png
+WARNING 2023-09-22 16:48:33,152 log 9960 11652 Not Found: /assets/img/portfolio/submarine.png
+WARNING 2023-09-22 16:48:33,152 basehttp 9960 7892 "GET /assets/img/portfolio/safe.png?h=77cbc82936acf11b03bd687ff795e835 HTTP/1.1" 404 2454
+WARNING 2023-09-22 16:48:33,153 basehttp 9960 11652 "GET /assets/img/portfolio/submarine.png?h=71572e367539ee27f418326f2361bce2 HTTP/1.1" 404 2469
+INFO 2023-09-22 16:51:27,378 autoreload 8744 13364 Watching for file changes with StatReloader
+INFO 2023-09-22 16:51:29,016 basehttp 8744 9380 "GET / HTTP/1.1" 200 20983
+WARNING 2023-09-22 16:51:29,056 log 8744 4792 Not Found: /ststic/assets/css/styles.min.css
+WARNING 2023-09-22 16:51:29,058 log 8744 9380 Not Found: /ststic/assets/bootstrap/css/bootstrap.min.css
+WARNING 2023-09-22 16:51:29,058 basehttp 8744 9380 "GET /ststic/assets/bootstrap/css/bootstrap.min.css?h=cb8828c28cbb36ccaba2a87636c9f589 HTTP/1.1" 404 2502
+WARNING 2023-09-22 16:51:29,059 basehttp 8744 4792 "GET /ststic/assets/css/styles.min.css?h=536e62e6d7a1a104c741b5e807552c44 HTTP/1.1" 404 2463
+WARNING 2023-09-22 16:51:29,116 log 8744 13880 Not Found: /ststic/assets/img/profile.png
+WARNING 2023-09-22 16:51:29,117 log 8744 9380 Not Found: /ststic/assets/img/portfolio/game.png
+WARNING 2023-09-22 16:51:29,118 log 8744 13640 Not Found: /ststic/assets/img/portfolio/cabin.png
+WARNING 2023-09-22 16:51:29,121 basehttp 8744 9380 "GET /ststic/assets/img/portfolio/game.png?h=b5df08ec517f8b9872be52e015333d8a HTTP/1.1" 404 2475
+WARNING 2023-09-22 16:51:29,121 basehttp 8744 13880 "GET /ststic/assets/img/profile.png?h=ca1ddcee1cb057489d44a94e63b7fbc4 HTTP/1.1" 404 2454
+WARNING 2023-09-22 16:51:29,123 basehttp 8744 13640 "GET /ststic/assets/img/portfolio/cabin.png?h=5bde47039f23de84a7748bee08793ac3 HTTP/1.1" 404 2478
+WARNING 2023-09-22 16:51:29,125 log 8744 15092 Not Found: /ststic/assets/img/portfolio/cake.png
+WARNING 2023-09-22 16:51:29,127 log 8744 9120 Not Found: /ststic/assets/img/portfolio/circus.png
+WARNING 2023-09-22 16:51:29,128 basehttp 8744 9120 "GET /ststic/assets/img/portfolio/circus.png?h=984b4ff719255fcbf2e01164905ebb90 HTTP/1.1" 404 2481
+WARNING 2023-09-22 16:51:29,129 log 8744 4792 Not Found: /ststic/assets/js/script.min.js
+WARNING 2023-09-22 16:51:29,129 basehttp 8744 15092 "GET /ststic/assets/img/portfolio/cake.png?h=4b5723e2b00006ef3a25df097c7187dd HTTP/1.1" 404 2475
+WARNING 2023-09-22 16:51:29,133 basehttp 8744 4792 "GET /ststic/assets/js/script.min.js?h=33588ed143bc098cbcf279ea5d7aa7b8 HTTP/1.1" 404 2457
+WARNING 2023-09-22 16:51:29,136 log 8744 13880 Not Found: /ststic/assets/img/portfolio/safe.png
+WARNING 2023-09-22 16:51:29,137 log 8744 9380 Not Found: /ststic/assets/img/portfolio/submarine.png
+WARNING 2023-09-22 16:51:29,137 basehttp 8744 13880 "GET /ststic/assets/img/portfolio/safe.png?h=77cbc82936acf11b03bd687ff795e835 HTTP/1.1" 404 2475
+WARNING 2023-09-22 16:51:29,138 basehttp 8744 9380 "GET /ststic/assets/img/portfolio/submarine.png?h=71572e367539ee27f418326f2361bce2 HTTP/1.1" 404 2490
+INFO 2023-09-22 16:51:42,015 basehttp 8744 9380 "GET / HTTP/1.1" 200 20983
+WARNING 2023-09-22 16:51:42,042 log 8744 13880 Not Found: /ststic/assets/css/styles.min.css
+WARNING 2023-09-22 16:51:42,046 basehttp 8744 13880 "GET /ststic/assets/css/styles.min.css?h=536e62e6d7a1a104c741b5e807552c44 HTTP/1.1" 404 2463
+WARNING 2023-09-22 16:51:42,049 log 8744 9380 Not Found: /ststic/assets/bootstrap/css/bootstrap.min.css
+WARNING 2023-09-22 16:51:42,054 basehttp 8744 9380 "GET /ststic/assets/bootstrap/css/bootstrap.min.css?h=cb8828c28cbb36ccaba2a87636c9f589 HTTP/1.1" 404 2502
+INFO 2023-09-22 16:51:42,056 basehttp 8744 9380 - Broken pipe from ('127.0.0.1', 52865)
+WARNING 2023-09-22 16:51:42,064 log 8744 4792 Not Found: /ststic/assets/js/script.min.js
+WARNING 2023-09-22 16:51:42,065 log 8744 13640 Not Found: /ststic/assets/img/portfolio/cake.png
+WARNING 2023-09-22 16:51:42,069 log 8744 9120 Not Found: /ststic/assets/img/profile.png
+WARNING 2023-09-22 16:51:42,069 basehttp 8744 4792 "GET /ststic/assets/js/script.min.js?h=33588ed143bc098cbcf279ea5d7aa7b8 HTTP/1.1" 404 2457
+WARNING 2023-09-22 16:51:42,071 log 8744 15092 Not Found: /ststic/assets/img/portfolio/cabin.png
+WARNING 2023-09-22 16:51:42,071 basehttp 8744 13640 "GET /ststic/assets/img/portfolio/cake.png?h=4b5723e2b00006ef3a25df097c7187dd HTTP/1.1" 404 2475
+WARNING 2023-09-22 16:51:42,073 basehttp 8744 9120 "GET /ststic/assets/img/profile.png?h=ca1ddcee1cb057489d44a94e63b7fbc4 HTTP/1.1" 404 2454
+WARNING 2023-09-22 16:51:42,074 basehttp 8744 15092 "GET /ststic/assets/img/portfolio/cabin.png?h=5bde47039f23de84a7748bee08793ac3 HTTP/1.1" 404 2478
+WARNING 2023-09-22 16:51:42,078 log 8744 13880 Not Found: /ststic/assets/img/portfolio/circus.png
+WARNING 2023-09-22 16:51:42,078 basehttp 8744 13880 "GET /ststic/assets/img/portfolio/circus.png?h=984b4ff719255fcbf2e01164905ebb90 HTTP/1.1" 404 2481
+WARNING 2023-09-22 16:51:42,083 log 8744 7936 Not Found: /ststic/assets/img/portfolio/game.png
+WARNING 2023-09-22 16:51:42,083 basehttp 8744 7936 "GET /ststic/assets/img/portfolio/game.png?h=b5df08ec517f8b9872be52e015333d8a HTTP/1.1" 404 2475
+WARNING 2023-09-22 16:51:42,085 log 8744 13640 Not Found: /ststic/assets/img/portfolio/submarine.png
+WARNING 2023-09-22 16:51:42,087 log 8744 4792 Not Found: /ststic/assets/img/portfolio/safe.png
+WARNING 2023-09-22 16:51:42,087 basehttp 8744 13640 "GET /ststic/assets/img/portfolio/submarine.png?h=71572e367539ee27f418326f2361bce2 HTTP/1.1" 404 2490
+WARNING 2023-09-22 16:51:42,087 basehttp 8744 4792 "GET /ststic/assets/img/portfolio/safe.png?h=77cbc82936acf11b03bd687ff795e835 HTTP/1.1" 404 2475
+INFO 2023-09-22 16:53:20,066 autoreload 7632 10768 Watching for file changes with StatReloader
+INFO 2023-09-22 16:53:21,037 basehttp 7632 3772 "GET / HTTP/1.1" 200 20983
+INFO 2023-09-22 16:53:21,159 basehttp 7632 9196 "GET /static/assets/css/styles.min.css?h=536e62e6d7a1a104c741b5e807552c44 HTTP/1.1" 200 5854
+INFO 2023-09-22 16:53:21,161 basehttp 7632 9196 "GET /static/assets/img/portfolio/circus.png?h=984b4ff719255fcbf2e01164905ebb90 HTTP/1.1" 200 27984
+INFO 2023-09-22 16:53:21,162 basehttp 7632 3772 "GET /static/assets/bootstrap/css/bootstrap.min.css?h=cb8828c28cbb36ccaba2a87636c9f589 HTTP/1.1" 200 243490
+INFO 2023-09-22 16:53:21,164 basehttp 7632 9196 "GET /static/assets/img/portfolio/game.png?h=b5df08ec517f8b9872be52e015333d8a HTTP/1.1" 200 25896
+INFO 2023-09-22 16:53:21,167 basehttp 7632 3772 "GET /static/assets/img/portfolio/safe.png?h=77cbc82936acf11b03bd687ff795e835 HTTP/1.1" 200 19240
+INFO 2023-09-22 16:53:21,167 basehttp 7632 9196 "GET /static/assets/img/portfolio/submarine.png?h=71572e367539ee27f418326f2361bce2 HTTP/1.1" 200 24330
+INFO 2023-09-22 16:53:21,201 basehttp 7632 7380 "GET /static/assets/js/script.min.js?h=33588ed143bc098cbcf279ea5d7aa7b8 HTTP/1.1" 200 681
+INFO 2023-09-22 16:53:21,203 basehttp 7632 12492 "GET /static/assets/img/portfolio/cabin.png?h=5bde47039f23de84a7748bee08793ac3 HTTP/1.1" 200 36514
+INFO 2023-09-22 16:53:21,203 basehttp 7632 13656 "GET /static/assets/img/portfolio/cake.png?h=4b5723e2b00006ef3a25df097c7187dd HTTP/1.1" 200 17068
+INFO 2023-09-22 16:53:21,205 basehttp 7632 15052 "GET /static/assets/img/profile.png?h=ca1ddcee1cb057489d44a94e63b7fbc4 HTTP/1.1" 200 10284
+WARNING 2023-09-22 16:53:21,243 log 7632 15052 Not Found: /assets/fonts/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+WARNING 2023-09-22 16:53:21,243 log 7632 7380 Not Found: /assets/fonts/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+WARNING 2023-09-22 16:53:21,246 log 7632 12492 Not Found: /assets/fonts/S6uyw4BMUTPHjx4wXg.woff2
+WARNING 2023-09-22 16:53:21,246 basehttp 7632 15052 "GET /assets/fonts/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2?h=a218604b30c0dfbe80915d23940ce0bd HTTP/1.1" 404 2508
+WARNING 2023-09-22 16:53:21,247 log 7632 13656 Not Found: /assets/fonts/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+WARNING 2023-09-22 16:53:21,247 basehttp 7632 7380 "GET /assets/fonts/S6u9w4BMUTPHh6UVSwiPGQ.woff2?h=a65c4ea4f4f9ce3ff8414e2fe91981c6 HTTP/1.1" 404 2490
+WARNING 2023-09-22 16:53:21,248 basehttp 7632 12492 "GET /assets/fonts/S6uyw4BMUTPHjx4wXg.woff2?h=a65c4ea4f4f9ce3ff8414e2fe91981c6 HTTP/1.1" 404 2478
+WARNING 2023-09-22 16:53:21,249 basehttp 7632 13656 "GET /assets/fonts/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2?h=a218604b30c0dfbe80915d23940ce0bd HTTP/1.1" 404 2502
+INFO 2023-09-22 16:56:00,594 autoreload 8564 1816 Watching for file changes with StatReloader
+INFO 2023-09-22 16:59:48,004 autoreload 10128 14540 Watching for file changes with StatReloader
+INFO 2023-09-22 17:00:21,703 autoreload 10128 14540 F:\projects_1\seminar_1\my_blogapp\views.py changed, reloading.
+INFO 2023-09-22 17:00:22,170 autoreload 13364 15320 Watching for file changes with StatReloader
+INFO 2023-09-22 17:00:34,899 autoreload 3336 8080 Watching for file changes with StatReloader
+INFO 2023-09-22 17:00:44,268 basehttp 3336 14668 "GET / HTTP/1.1" 200 1715
+WARNING 2023-09-22 17:00:46,210 log 3336 14668 Not Found: /about.html
+WARNING 2023-09-22 17:00:46,211 basehttp 3336 14668 "GET /about.html HTTP/1.1" 404 2667
+INFO 2023-09-22 17:04:08,264 autoreload 12928 15300 Watching for file changes with StatReloader
+WARNING 2023-09-22 17:04:11,110 log 12928 15336 Not Found: /about.html
+WARNING 2023-09-22 17:04:11,111 basehttp 12928 15336 "GET /about.html HTTP/1.1" 404 2708
+INFO 2023-09-22 17:04:35,096 autoreload 7768 1876 Watching for file changes with StatReloader
+INFO 2023-09-22 17:04:36,356 basehttp 7768 5136 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:04:37,648 basehttp 7768 5136 "GET /about/ HTTP/1.1" 200 1732
+WARNING 2023-09-22 17:04:46,825 log 7768 5136 Not Found: /about/index.html
+WARNING 2023-09-22 17:04:46,825 basehttp 7768 5136 "GET /about/index.html HTTP/1.1" 404 2726
+INFO 2023-09-22 17:05:06,881 autoreload 13908 12612 Watching for file changes with StatReloader
+WARNING 2023-09-22 17:05:11,955 log 13908 9912 Not Found: /about/index.html
+WARNING 2023-09-22 17:05:11,955 basehttp 13908 9912 "GET /about/index.html HTTP/1.1" 404 2726
+INFO 2023-09-22 17:05:25,260 autoreload 13108 15040 Watching for file changes with StatReloader
+INFO 2023-09-22 17:05:26,325 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:05:27,796 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:05:28,644 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:05:29,708 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:05:30,380 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:05:30,832 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:05:31,275 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:05:31,650 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:05:31,987 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:05:32,414 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:05:33,018 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:05:38,123 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:05:38,645 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:05:41,268 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:05:41,836 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:05:42,274 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:05:42,629 basehttp 13108 2428 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:07:53,447 basehttp 13108 2428 "GET /about/ HTTP/1.1" 200 1723
+INFO 2023-09-22 17:08:46,872 autoreload 7260 8712 Watching for file changes with StatReloader
+INFO 2023-09-22 17:08:48,791 basehttp 7260 15348 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:08:50,199 basehttp 7260 15348 "GET /about/ HTTP/1.1" 200 2646
+INFO 2023-09-22 17:09:07,919 basehttp 7260 15348 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:09:09,363 basehttp 7260 15348 "GET /about/ HTTP/1.1" 200 2646
+INFO 2023-09-22 17:09:10,098 basehttp 7260 15348 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:09:10,742 basehttp 7260 15348 "GET /about/ HTTP/1.1" 200 2646
+INFO 2023-09-22 17:09:11,213 basehttp 7260 15348 "GET / HTTP/1.1" 200 1712
+INFO 2023-09-22 17:09:13,354 basehttp 7260 15348 "GET /about/ HTTP/1.1" 200 2646
